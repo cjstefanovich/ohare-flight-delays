@@ -15,7 +15,7 @@ In AWS, I used the following pipeline for my project:
 -	Use PySpark to run exploratory queries and summary statistics.
 -	Train a logistic regression model using Spark MLlib to predict DepDel15.
 -	Compute accuracy, precision, recall, and AUC for the logistic regression model. Extract feature importances.
--	If time allows, build a linear regression model (XGBoost) to predict DepDelay.
+- Build a linear regression model (XGBoost) to predict DepDelay.
 -	Compute MAE, RMSE, and R^2 for linear regression model. Extract feature importances.
 -	Save final model(s) to S3 for future use.
 
