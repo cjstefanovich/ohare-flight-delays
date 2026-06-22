@@ -1,6 +1,8 @@
 # ohare-flight-delays
 I completed this project for a data mining class for my graduate degree in Fall 2025. It utilizes Amazon AWS and PySpark for machine learning on a large dataset of flight records from Chicago O'Hare airport to predict if a flight will be delayed or not, and how long the delay might be.
 
+Note that the code files included here are for a local version of my project.
+
 The data came from the [Airline On-Time Performance Data database](https://www.transtats.bts.gov/Tables.asp?QO_VQ=EFD&QO_anzr=Nv4yv0r%20b0-gvzr%20cr4s14zn0pr%20Qn6n), which is provided by the Bureau of Transportation Statistics (U.S. Department of Transportation). I used the Reporting Carrier On-Time Performance (1987-present) data from this database. This dataset includes detailed information for every commercial flight in the U.S., reported monthly.
 
 In AWS, I used the following pipeline for my project:
