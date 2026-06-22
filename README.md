@@ -1,5 +1,5 @@
 # ohare-flight-delays
-I completed this project for a data mining class for my graduate degree in Fall 2025. It utilizes Amazon AWS and PySpark for machine learning on a large dataset of flight records from Chicago O'Hare airport to predict if a flight will be delayed or not, and how long the delay might be.
+I completed this project for a data mining class for my graduate degree in Fall 2025. It utilizes Amazon Web Services and PySpark for machine learning on a large dataset of flight records from Chicago O'Hare airport to predict if a flight will be delayed or not, and how long the delay might be.
 
 Note that the code files included here are for a local version of my project.
 
